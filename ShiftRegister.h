@@ -1,10 +1,26 @@
 /*
 Project:  Arduino Shift Register Library
-Version:  0.1
 Author:  Leonardo Banderali
 Created:  December 16, 2013
 Last Modified: May 24, 2014
-Description:  This is an arduino library writen to siplify the use of shift registers.
+Description:  This is an arduino library writen to siplify the use of shift registers
+
+Copyright (C) 2014  Leonardo Banderali
+
+Usage Agreement:
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Lesser General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU Lesser General Public License for more details.
+
+    You should have received a copy of the GNU Lesser General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
 Note: In the comments, a 'shift register' is considered to be a set of one or more 8 bit shift register chips daisy chained together,
     thereby acting as a single register.
 */
