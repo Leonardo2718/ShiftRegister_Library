@@ -1,0 +1,13 @@
+clear	KEYWORD1
+refresh	KEYWORD1
+setShiftOrder	KEYWORD1
+set		KEYWORD1
+setBit	KEYWORD1
+setBits	KEYWORD1
+shift	KEYWORD1
+shiftState	KEYWORD1
+shiftOneBit	KEYWORD1
+aset	KEYWORD1
+ashift	KEYWORD1
+saveToArray	KEYWORD1
+ShiftRegister	KEYWORD2
